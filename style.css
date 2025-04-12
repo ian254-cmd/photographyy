@@ -1,0 +1,107 @@
+.navbar {
+    background-color: blueviolet;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    justify-content: center;
+}
+.hero {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#photography { border: 5px solid blueviolet; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-size: medium;
+    color: rgb(59, 13, 33);
+}
+#personal-life {
+    border: 5px solid blueviolet; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-size: medium;
+    color: thistle;
+}
+.image-life {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#travel {
+    border: 8px solid rgb(170, 145, 194); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-size: medium;
+    color: rgb(124, 62, 124);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.image {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+}
+.food-image {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#food {
+    border: 5px solid blueviolet; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-size: medium;
+    color: thistle;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.footer-content {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+}
+.socials {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+}
+.footer-bottom {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+}
